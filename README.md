@@ -1,5 +1,21 @@
 # Technology at the service of life in combating the COVID-19 pandemic – UFF FRONT in the production of mechanical ventilators <img src="https://skillicons.dev/icons?i=arduino" /> <img src="https://github.com/letfritz/COVID-ventilator/assets/161434060/d02af6c4-3ca7-47da-a604-dc2921ba0493" style="max-width: 50%; height: 50px;">
 
+<div align="center"><br/>
+  <div style="display: inline-block;">
+    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/CPVT3N.svg">
+    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/CPVT3N.svg">
+    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/CPVT3N.svg">
+  </div>
+  <div style="display: inline-block;">
+    <img align="center" alt="downloads" src="https://img.shields.io/github/downloads/letfritz/CPVT3N/total.svg">
+    <img align="center" alt="issues" src="https://img.shields.io/github/issues/letfritz/CPVT3N/total.svg">
+    <img align="center" alt="issues-closed" src="https://img.shields.io/github/issues-closed/letfritz/CPVT3N/total.svg">
+    <img align="center" alt="issues-pr" src="https://img.shields.io/github/issues-pr/letfritz/CPVT3N/total.svg">
+    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/issues-pr-closed/letfritz/CPVT3N/total.svg">
+    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/license/letfritz/CPVT3N.svg">
+  </div>
+</div><br/>
+
 Arduino project for creating a mechanical ventilator for COVID patients.
 
 ## 📷 Screenshot
